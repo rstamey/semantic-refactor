@@ -1,13 +1,16 @@
+/*universal selector sets styles rules for entire page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*body tag selctor wit background color property dictates  t*/
 body {
     background-color: #d9dcd6;
 }
 
+/*selects tags with class of header and applies styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +18,19 @@ body {
     color: #ffffff;
 }
 
+/*class selector with nested tag selector applying styles the the header*/
 .header h1 {
 display: inline-block;
 font-size: 48px;
 }
 
+/*double nested selector applying a special color to the letters SEO in the word horiseon*/
 .header h1 .seo {
     color: #939393;
     background-color: #ffffff00;
 }
 
+/*nav bar layout styling*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -56,6 +62,7 @@ p {
     background-position: center; 
 }
 
+/*positioning sections to left and right areas of the screen*/
 .float-left {
     float: left;
     margin-right: 25px;
