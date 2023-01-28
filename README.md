@@ -4,4 +4,4 @@ secondary focus on CSS semanitics. CSS code has been cleaned up with comments ex
 
 the live site can be accessed here: [Horiseon refactor]( https://rstamey.github.io/semantic-refactor/)
 
-screenshot of live site: ![screenshots](assets/images/Screenshot 2023-01-27 at 8.18.40 PM.png)
+screenshot of live site: ![screenshots](..gitassets/images/Screenshot 2023-01-27 at 8.18.40 PM.png)
